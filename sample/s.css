@@ -1,0 +1,16 @@
+nav ul{
+display: flex;
+align-items: center;
+list-style-type: none;
+height: 65px;
+background-color:black;
+color: white;
+
+}
+nav ul li{
+    padding: 0 12px;
+}
+.w img{
+    width: 44px;
+    padding: 0 8px;
+}
